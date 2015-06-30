@@ -5,6 +5,9 @@
 #include c:\arx\temp\anotherbork
 #Include anotherbork\bork3.ahk
 
+#include c:\arx\ahk
+#Include ahk\borky.ahk
+
 #SingleInstance,Force
 
 
