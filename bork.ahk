@@ -6,7 +6,7 @@
 #Include anotherbork\bork3.ahk
 
 #include c:\arx\ahk
-#Include ahk\borky.ahk
+#Include ahk\core.ahk
 
 #SingleInstance,Force
 
@@ -27,3 +27,5 @@ m(x*){
 		list.=b "`n"
 	MsgBox,,AHK Studio,% list
 }
+
+;this is a bork test
