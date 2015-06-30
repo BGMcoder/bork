@@ -1,8 +1,6 @@
 ;BROKEN INCLUDES
 
-;#include c:\arx\ahk
-;#include core.ahk
-
+#include anInclude.ahk
 
 
 #SingleInstance,Force
