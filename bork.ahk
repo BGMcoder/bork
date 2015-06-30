@@ -2,6 +2,7 @@
 
 #include anInclude.ahk
 #Include include\yetanotherfile.ahk
+#include c:\arx\temp\anotherbork
 #Include anotherbork\bork3.ahk
 
 #SingleInstance,Force
