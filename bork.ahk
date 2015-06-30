@@ -1,7 +1,7 @@
 ;BROKEN INCLUDES
 
 #include anInclude.ahk
-
+#Include include\yetanotherfile.ahk
 
 #SingleInstance,Force
 
